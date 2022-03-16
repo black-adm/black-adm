@@ -1,4 +1,4 @@
-### Hello, my name is Matheus Roberto. I am a software development student, focusing on the Golang and all its ecosystem.  💙🇧🇷
+### Hello, my name is Matheus Roberto. I am a software development student, focusing on the C# and all its ecosystem.  � 💜 🇧🇷
 ▪️ I started my journey in the world of technology almost a year ago,
 and every day I try to improve my skills and become the best of myself.👣
 
