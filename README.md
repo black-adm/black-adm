@@ -6,6 +6,7 @@
 <img src="https://img.shields.io/badge/%20%20%20-csharp-purple?style=for-the-badge&logo=csharp" />
 <img src="https://img.shields.io/badge/-dotnet-blueviolet?style=for-the-badge&logo=dotnet" />
 <img src="https://img.shields.io/badge/-sqlserver-gray?style=for-the-badge&logo=microsoftsqlserver" />
+<img src="https://img.shields.io/badge/-mongodb-green?style=for-the-badge&logo=mongodb" />
 </p>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/68331373/243102059-79749ba5-d886-49e2-8ddc-72e130433b2c.gif" width="30%" />
