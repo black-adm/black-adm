@@ -1,4 +1,4 @@
-# WHOAMI $
+## $ WHOAMI
 ### Hello, my name is Matheus Roberto. I am a software development student, focusing on the Web Development and all its ecosystem.  �  🇧🇷
 
 <p align="center">
