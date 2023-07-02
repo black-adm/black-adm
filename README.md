@@ -1,3 +1,4 @@
+![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) # WHOAMI $
 ### Hello, my name is Matheus Roberto. I am a software development student, focusing on the Web Development and all its ecosystem.  �  🇧🇷
 
 <p align="center">
@@ -11,13 +12,17 @@
 <p align="center">
 <img src="https://user-images.githubusercontent.com/68331373/243102059-79749ba5-d886-49e2-8ddc-72e130433b2c.gif" width="30%" />
 </p>
-
+<dl>
 ▪️ I started my journey in the world of technology almost a year ago,
 and every day I try to improve my skills and become the best of myself.👣
 
-### Another facts about me:
+<dt>### Another facts about me: </dt>
 ▪️ I love reading technology blogs and books, I study a lot of my time on a self-taught basis.💡
+___
 
 ▪️  Future Full-Stack Developer. 🔄💻   
+___
 
 ▪️ My dream is to live on programming.💸🤵
+</dl>
+
