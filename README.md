@@ -13,16 +13,17 @@
 <img src="https://user-images.githubusercontent.com/68331373/243102059-79749ba5-d886-49e2-8ddc-72e130433b2c.gif" width="30%" />
 </p>
 <dl>
-▪️ I started my journey in the world of technology almost a year ago,
-and every day I try to improve my skills and become the best of myself.👣
+ <dt> I started my journey in the world of technology almost a year ago,
+and every day I try to improve my skills and become the best of myself.</dt>
 
-<dt>### Another facts about me: </dt>
-▪️ I love reading technology blogs and books, I study a lot of my time on a self-taught basis.💡
 ___
 
-▪️  Future Full-Stack Developer. 🔄💻   
-___
+<dt> Another facts about me: </dt>
 
-▪️ My dream is to live on programming.💸🤵
+* I love reading technology blogs and books, I study a lot of my time on a self-taught basis.💡
+
+* Future Full-Stack Developer. 🔄💻
+
+* My dream is to live on programming.💸🤵
 </dl>
 
