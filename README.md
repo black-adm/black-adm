@@ -1,4 +1,4 @@
-![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) # WHOAMI $
+# WHOAMI $
 ### Hello, my name is Matheus Roberto. I am a software development student, focusing on the Web Development and all its ecosystem.  �  🇧🇷
 
 <p align="center">
