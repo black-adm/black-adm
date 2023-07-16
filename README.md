@@ -2,12 +2,14 @@
 ### Hello, my name is Matheus Roberto. I am a software development student, focusing on the Web Development and all its ecosystem.  �  🇧🇷
 
 <p align="center">
-<img src="https://img.shields.io/badge/%20%20%20-javascript-black?style=for-the-badge&logo=javascript"/>
-<img src="https://img.shields.io/badge/%20%20%20-typescript-9cf?style=for-the-badge&logo=typescript" />
-<img src="https://img.shields.io/badge/%20%20%20-csharp-purple?style=for-the-badge&logo=csharp" />
-<img src="https://img.shields.io/badge/-dotnet-blueviolet?style=for-the-badge&logo=dotnet" />
-<img src="https://img.shields.io/badge/-sqlserver-gray?style=for-the-badge&logo=microsoftsqlserver" />
-<img src="https://img.shields.io/badge/-mongodb-green?style=for-the-badge&logo=mongodb" />
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+<img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white" />
+<img src="https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white" />
+<img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+<img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" />
 </p>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/68331373/243102059-79749ba5-d886-49e2-8ddc-72e130433b2c.gif" width="30%" />
