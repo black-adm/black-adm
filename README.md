@@ -21,7 +21,7 @@
 
 - Consegui meu primeiro emprego em uma agência de software, no qual desenvolvíamos e realizávamos manutenções em projetos monolíticos.  📊
 
-- Trabalhei com soluções Web tanto no Front-end quanto no Backend, utilizando `Node.js`, `Mysql`, `React.js` e `Css`. 💡
+- Trabalhei com soluções Web tanto no Front-end quanto no Backend, utilizando `Node JS`, `MySQL` e `React JS`. 💡
 
 - Atualmente, estou migrando para a stack C# com o framework .NET e todo o seu ecossistema. 💜
 
