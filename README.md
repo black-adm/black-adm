@@ -17,14 +17,17 @@
 <br>
 <dt> Minha experiência com Desenvolvimento de Software : </dt></br>
 
-- Comecei minha jornada com a linguagem `JavaScript` e `TypeScript`. Trabalhando como freelancer nas plataformas 99Freelas e Workana. 🛠
+- Comecei minha jornada com a linguagem `JavaScript` e `TypeScript`. Trabalhando como freelancer nas plataformas 99Freelas e Workana, estudando de forma autodidata. 🛠
 
 - Consegui meu primeiro emprego em uma agência de software, no qual desenvolvíamos e realizávamos manutenções em projetos monolíticos.  📊
 
 - Trabalhei com soluções Web tanto no Front-end quanto no Backend, utilizando `Node JS`, `MySQL` e `React JS`. 💡
 
-- Atualmente, estou migrando para a stack C# com o framework .NET e todo o seu ecossistema. 💜
+- Atualmente, estou migrando para a stack `C#` com o framework `.NET` e todo o seu ecossistema. 💜
 
-- Estou investindo muito em consultorias com profissionais experientes no mercado. Estudo muito também de forma autodidata. 📚
+- Tive oportunidade de trabalhar e dar manutenção em projetos com `PHP` e o framework `Laravel`, também com `Ruby` no framework `Ruby on Rails`.
+
+- Aprendi que a linguagem  é apenas a ferramenta para resolver problemas que temos de diversos nichos. Se fortalecer bem sua base de computação, qualquer ambiente com muito estudo e dedicação será possivel realizar entregas de qualidade. ✅ 
+
 </dl>
 
