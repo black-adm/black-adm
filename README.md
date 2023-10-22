@@ -15,7 +15,7 @@
 <br>
 <div>
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=black-adm&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
- <img src="https://user-images.githubusercontent.com/68331373/243102059-79749ba5-d886-49e2-8ddc-72e130433b2c.gif" width="23%" align="right" /> 
+ <img src="https://user-images.githubusercontent.com/68331373/243102059-79749ba5-d886-49e2-8ddc-72e130433b2c.gif" width="24%" align="right" /> 
 </div>
 
 
