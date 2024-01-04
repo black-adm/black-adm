@@ -2,8 +2,7 @@
 ## Matheus Roberto Madureira
 ### Software Developer :computer:	
 
- Olá, seja bem vindo ao meu perfil <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" alt="hand emoji" width="25"
-  /> <br>
+ Olá, seja bem vindo ao meu perfil <img src="https://i.ibb.co/nz3K9k9/hand.gif" alt="hand emoji" width="40" /> <br>
 
 ϟ Entusiasta das melhores tecnologias de **desenvolvimento web** e **banco de dados**. 
 
@@ -13,7 +12,7 @@
 "*O sucesso nasce do querer, da determinação e persistência em se chegar a um objetivo. Mesmo não atingindo o alvo, quem busca e vence obstáculos, no mínimo fará coisas admiráveis.*"
 <br>
 
-### :hammer_and_wrench: Current tech stacks <img src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" width="20" alt="coding emoji" />
+### :hammer_and_wrench: Current tech stacks
 <div>
 <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" />
 <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
