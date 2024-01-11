@@ -4,7 +4,7 @@
 
 ϟ Entusiasta das melhores tecnologias de **desenvolvimento web** e **banco de dados**. 
 
- <img width="24%" align="center" src="https://user-images.githubusercontent.com/68331373/243102059-79749ba5-d886-49e2-8ddc-72e130433b2c.gif" /> 
+ <img width="25%" align="center" src="https://user-images.githubusercontent.com/68331373/243102059-79749ba5-d886-49e2-8ddc-72e130433b2c.gif" /> 
 
 "*O trabalho duro supera o talento quando o talento não trabalha duro.*"
 <br>
@@ -18,5 +18,5 @@
 
 <br>
 <div>
- <img height="250px" align="center" src="https://github-readme-stats.vercel.app/api?username=black-adm&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true" />
+ <img height="200px" align="center" src="https://github-readme-stats.vercel.app/api?username=black-adm&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true" />
 </div>
