@@ -4,6 +4,8 @@
 
 ϟ Entusiasta das melhores tecnologias de **desenvolvimento web** e **banco de dados**. 
 
+⚐ Desenvolvedor Angular na [Fit Gestão](https://fitgestao.com.br/).
+
  <img width="25%" align="center" src="https://user-images.githubusercontent.com/68331373/243102059-79749ba5-d886-49e2-8ddc-72e130433b2c.gif" /> 
 
 "*O trabalho duro supera o talento quando o talento não trabalha duro.*"
