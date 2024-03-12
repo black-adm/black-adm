@@ -4,7 +4,7 @@
 
 ϟ Entusiasta das melhores tecnologias de **desenvolvimento web** e **banco de dados**. 
 
-⚐ Desenvolvedor Angular / Fluig na [Fit Gestão](https://fitgestao.com.br/).
+⚐ Trabalhando com Angular e Fluig na [FITGESTÃO](https://fitgestao.com.br/).
 
  <img src="/programer.gif" alt="programer-image" align="center" width="25%" /> 
 
