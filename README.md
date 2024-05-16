@@ -7,14 +7,12 @@
 ⚐ Software Developer in [FITGESTÃO](https://fitgestao.com.br/).
 
  <img src="/programer.gif" alt="programer-image" align="center" width="25%" /> 
-
-"*O trabalho duro supera o talento quando o talento não trabalha duro.*"
 <br>
 
 ### :hammer_and_wrench: Current tech stacks
 <p align="start">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,react,next,nodejs,nestjs,adonis,express,prisma,jest,vitest,docker" />
+    <img src="https://skillicons.dev/icons?i=typescript,angular,react,nextjs,nodejs,cs,dotnet,kafka,mongodb,postgres,redis,azure,docker" />
   </a>
 </p>
 
