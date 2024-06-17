@@ -1,10 +1,9 @@
 ### [ ~ ] $ WHOAMI 
 ## [ # ] root
-### Olá, seja bem vindo ao meu perfil <img src="/hand.gif" alt="hand-emoji" width="35" /> <br>
 
-ϟ Entusiasta das melhores tecnologias de **desenvolvimento web** e **banco de dados**. 
+ϟ Entusiasta das tecnologias de **desenvolvimento web** e **banco de dados**. 
 
-⚐ Software Developer in [FITGESTÃO](https://fitgestao.com.br/).
+⚐ _FullStack_ _Developer_ in [FITGESTÃO](https://fitgestao.com.br/).
 
  <img src="/programer.gif" alt="programer-image" align="center" width="25%" /> 
 <br>
