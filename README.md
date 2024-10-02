@@ -10,7 +10,7 @@
 ### :hammer_and_wrench: Current tech stacks
 <p align="start">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=typescript,angular,react,nextjs,nodejs,cs,dotnet,kafka,mongodb,postgres,redis,azure,docker" />
+    <img src="https://skillicons.dev/icons?i=angular,react,nextjs,nodejs,express,adonis,nest,vitest,jest,cypress,kafka,postgres,mongodb,redis,docker" />
   </a>
 </p>
 
